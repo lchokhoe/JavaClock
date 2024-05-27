@@ -36,12 +36,3 @@ Ensure that you have the correct JDK version or one that is compatible with JDK1
    ```sh
    java -cp . com.clockapp.Main
    ```
-   
-
-
-<!-- CONTACT -->
-## Contact
-
-Lai Chok Hoe - e0543543@u.nus.edu
-
-Google Drive Link: [Clock Application with Java Swing](https://drive.google.com/drive/folders/15N9yRP_CuYB_PFHcC0dWrACGptdKJcum?usp=drive_link)
